@@ -1,6 +1,5 @@
 - Hi, I’m Jeph Humphrey👋
-- <a href=https://www.instagram.com/j.hetch/>![image](https://github.com/hetch-4/hetch-4/assets/155738167/061be51b-41b2-421d-9c7a-6449d1f602e5)
-</a>
+- <a href=https://www.instagram.com/j.hetch/>IG</a>
 - 👀 I’m interested in exploring code
 - currently learning html
 - 📫 reach me on 
