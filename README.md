@@ -1,4 +1,5 @@
 - Hi, I’m Jeph Humphrey👋
+- <a>href=https://www.instagram.com/j.hetch/>IG</a>
 - 👀 I’m interested in exploring code
 - currently learning html
 - 📫 reach me on 
