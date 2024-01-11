@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Jeph Humphrey
+- Hi, I’m Jeph Humphrey👋
 - 👀 I’m interested in exploring code
-- 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on ...
+- currently learning html
 - 📫 reach me on 
 
 <!---
