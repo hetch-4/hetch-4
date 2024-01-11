@@ -1,5 +1,8 @@
 - Hi, I’m Jeph Humphrey👋
-- reach me <a href=https://www.instagram.com/j.hetch/>j.hetch</a>,<a href=https://twitter.com/_hetch>_hetch</a>
+- reach me om:
+  <a href=https://www.instagram.com/j.hetch/>j.hetch</a>
+  <a href=https://twitter.com/_hetch>_hetch</a>
+  <a href=https://www.linkedin.com/in/jeph-humphrey-5ab877264/>jeph</a>
 - 👀 I’m interested in exploring code
 - currently learning html
   
