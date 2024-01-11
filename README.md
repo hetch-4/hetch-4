@@ -1,8 +1,8 @@
 - Hi, I’m Jeph Humphrey👋
-- <a href=https://www.instagram.com/j.hetch/>j.hetch</a>,<a href=https://twitter.com/_hetch>_hetch</a>
+- reach me on <a href=https://www.instagram.com/j.hetch/>j.hetch</a>,<a href=https://twitter.com/_hetch>_hetch</a>
 - 👀 I’m interested in exploring code
 - currently learning html
-- 📫 reach me on 
+  
 
 <!---
 hetch-4/hetch-4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
