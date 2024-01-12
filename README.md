@@ -1,4 +1,4 @@
-- <title="(*_*)">Hi, I’m Jeph Humphrey👋
+- Hi, I’m Jeph Humphrey👋
 - 👀reach me on:
   <a href=https://www.instagram.com/j.hetch/>j.hetch</a>
   <a href=https://twitter.com/_hetch>_hetch</a>
