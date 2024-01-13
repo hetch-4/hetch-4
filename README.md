@@ -4,7 +4,7 @@
   <a href=https://www.instagram.com/j.hetch/><b>IG</b></a>
   <a href=https://twitter.com/_hetch><b>twitter</b></a>
   <a href=https://www.linkedin.com/in/jeph-humphrey-5ab877264/><i>LinkedIn</i></a>
-- I’m interested in exploring html 
+- Currently exploring html 
   
 
 <!---
