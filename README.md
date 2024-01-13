@@ -1,5 +1,5 @@
-- Hi there,
-- <p title="*_*">I’m Jeph Humphrey👋</p>
+- <i> Hi there </i> 👋,
+- <p title="*_*">I’m Jeph Humphrey</p>
 - 👀reach me on:
   <a href=https://www.instagram.com/j.hetch/><b>IG</b></a>
   <a href=https://twitter.com/_hetch><b>twitter</b></a>
