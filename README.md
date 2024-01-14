@@ -1,10 +1,10 @@
-- <h3><i> Hi there </i> 👋,</h3>
-- <p title="*_*">I’m Jeph Humphrey</p>
-- 👀reach me on:
+ <h3><i> Hi there </i> 👋,</h3>
+ <p title="*_*">I’m Jeph Humphrey</p>
+ 👀reach me on:
   <a href=https://www.instagram.com/j.hetch/><b>IG</b></a>
   <a href=https://twitter.com/_hetch><b>twitter</b></a>
   <a href=https://www.linkedin.com/in/jeph-humphrey-5ab877264/><i>LinkedIn</i></a>
-- Currently exploring html 
+ Currently exploring html 
 
 
 <!---
