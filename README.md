@@ -7,7 +7,7 @@
  </p>
  <hr>
  <h3>social accounts</h3>
- 👀reach me on:
+ <p title="🤙">👀reach me on:</p>
   <a href=https://www.instagram.com/j.hetch/><b>j.hetch</b></a>
   <a href=https://twitter.com/_hetch><b>hetch_</b></a>
   <a href=https://www.linkedin.com/in/jeph-humphrey-5ab877264/><i>LinkedIn</i></a><br>
