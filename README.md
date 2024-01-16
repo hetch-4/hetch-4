@@ -1,4 +1,4 @@
- <h3 title="👋👋"><i> Hi there </i> 👋,</h3>
+ <h3 title="👋👋"><i> Hi there </i> 👋</h3>
  <hr>
  <p title="*_*">I’m Jeph Humphrey</p>
  <p>
