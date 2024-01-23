@@ -3,7 +3,7 @@
  <p title="*_*">I’m Jeph Humphrey</p>
  <p>
   student aspiring to be a software developer<br>
-  <p title="<!-- -->">currently learning <a href="https://www.w3schools.com/html/" target=_blank title="w3schools">html</a></p>
+  <p title="<!-- -->"> learning <a href="https://www.w3schools.com/html/" target=_blank title="w3schools">html</a></p>
  </p>
  <hr>
  <h3>social accounts</h3>
