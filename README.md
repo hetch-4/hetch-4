@@ -6,6 +6,7 @@
   student aspiring to be a full stack developer<br>
   <p title="<!-- -->"> learning <a href="https://www.w3schools.com/js/" target=_blank title="w3schools">Javascript</a></p>
  </p>
+ <p title="Done html" ><a href="https://codeliber.com/certificates/lxk3q07jeihmq"> __ </a></p>
  
  <hr>
  <h3>social accounts</h3>
