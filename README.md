@@ -1,10 +1,12 @@
  <h3 title="👋👋"><i> Hi there </i> 👋</h3>
  <hr>
  <p title="*_*">I’m Jeph Humphrey</p>
+ <span><img src=></span>
  <p>
-  student aspiring to be a software developer<br>
-  <p title="<!-- -->"> learning <a href="https://www.w3schools.com/html/" target=_blank title="w3schools">html</a></p>
+  student aspiring to be a full stack developer<br>
+  <p title="<!-- -->"> learning <a href="https://www.w3schools.com/javascript/" target=_blank title="w3schools">html</a></p>
  </p>
+ 
  <hr>
  <h3>social accounts</h3>
  <p title="🤙">👀reach me on:</p>
