@@ -32,21 +32,21 @@ I'm a passionate web developer who loves creating beautiful and functional web a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hetch-4&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetch-4&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ## 🌟 Featured Projects
 
-- 🔥 [Project 1](https://github.com/yourusername/project1) - Brief description
-- 🚀 [Project 2](https://github.com/yourusername/project2) - Brief description
-- 💡 [Project 3](https://github.com/yourusername/project3) - Brief description
+- 🔥 [Project 1](https://github.com/hetch-4/circles) - Brief description
+- 🚀 [Project 2](https://github.com/hetch-4/portfolio) - Brief description
+- 💡 [Project 3](https://github.com/hetch-4/project3) - Brief description
 
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://minimalist-0portfolio.netlify.app/)
 
 ## 📝 Latest Blog Posts
 
