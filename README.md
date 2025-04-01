@@ -6,7 +6,8 @@
 
 ## 🚀 About Me
 
-I'm a passionate web developer who loves creating beautiful and functional web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+Passionate web developer creating  functional web applications. 
+I enjoy turning complex problems into simple and intuitive solutions.
 
 ## 💻 Tech Stack
 
@@ -38,14 +39,14 @@ I'm a passionate web developer who loves creating beautiful and functional web a
 
 ## 🌟 Featured Projects
 
-- 🔥 [Project 1](https://github.com/hetch-4/circles) - Brief description
-- 🚀 [Project 2](https://github.com/hetch-4/portfolio) - Brief description
-- 💡 [Project 3](https://github.com/hetch-4/project3) - Brief description
+- 🔥 [Project 1](https://github.com/hetch-4/circles)
+- 🚀 [Project 2](https://github.com/hetch-4/portfolio)
+- 💡 [Project 3](https://github.com/hetch-4/project3) 
 
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/pooltroon)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://minimalist-0portfolio.netlify.app/)
 
 ## 📝 Latest Blog Posts
@@ -57,8 +58,8 @@ I'm a passionate web developer who loves creating beautiful and functional web a
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=hetch-4&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/hetch-4?label=Follow&style=social" alt="GitHub Followers" />
 </div>
 
 ---
