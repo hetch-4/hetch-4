@@ -39,8 +39,8 @@ I enjoy turning complex problems into simple and intuitive solutions.
 
 ## 🌟 Featured Projects
 
-- 🔥 [Project 1](https://real-estate-landing-page-jhd0.netlify.app/))
-- 🚀 [Project 2](https://github.com/hetch-4/portfolio)
+- 🔥 [Project 1](https://real-estate-landing-page-jhd0.netlify.app/) - Real-Estate
+- 🚀 [Project 2]((https://tech-gee.netlify.app/) - landing-page
 - 💡 [Project 3](https://github.com/hetch-4/project3) 
 
 ## 📫 Connect With Me
