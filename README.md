@@ -25,9 +25,13 @@ I enjoy turning complex problems into simple and intuitive solutions.
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
-
-  ![(* ^ *)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=hetch-4&show_icons=true&theme=highcontrast)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hetch-4&hide_progress=true)
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hetch-4&theme=dark" />
+</a>
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hetch-4&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
+  
 
 ## 🌟 Featured Projects
 
