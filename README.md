@@ -25,15 +25,15 @@ I enjoy turning complex problems into simple and intuitive solutions.
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
-![(* ^ *)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=hetch-4&show_icons=true&theme=highcontrast)
 
+  ![(* ^ *)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=hetch-4&show_icons=true&theme=highcontrast)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hetch-4&hide_progress=true)
 
 ## 🌟 Featured Projects
 
 - 🔥 [Project 1](https://real-estate-landing-page-jhd0.netlify.app/) - Real-Estate
 - 🚀 [Project 2](https://tech-gee.netlify.app/) - landing-page
 - 💡 [Project 3](https://minimalist-0portfolio.netlify.app/) - portfolio
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hetch-4&repo=min-portfolio)](https://github.com/hetch-4/min-portfolio)
 
 ## 📫 Connect With Me
 
