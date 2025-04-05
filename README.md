@@ -26,7 +26,7 @@ I enjoy turning complex problems into simple and intuitive solutions.
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hetch-4&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetch-4&layout=compact&langs_count=7&theme=radical"/>
 </div>
