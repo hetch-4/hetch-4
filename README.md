@@ -18,7 +18,7 @@ I enjoy turning complex problems into simple and intuitive solutions.
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+<!--![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)-->
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -36,7 +36,7 @@ I enjoy turning complex problems into simple and intuitive solutions.
 ## 🌟 Featured Projects
 
 - 🔥 [Project 1](https://real-estate-landing-page-jhd0.netlify.app/) - Real-Estate
-- 🚀 [Project 2](https://tech-gee.netlify.app/) - landing-page
+- 🚀 [Project 2](https://github.com/hetch-4/sort-files) - file sorter
 - 💡 [Project 3](https://minimalist-0portfolio.netlify.app/) - portfolio
 
 ## 📫 Connect With Me
