@@ -8,6 +8,7 @@
 
 Passionate web developer creating  functional web applications. 
 I enjoy turning complex problems into simple and intuitive solutions.
+Check out my portfolio website 
 
 ## 💻 Tech Stack
 
