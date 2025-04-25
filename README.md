@@ -8,7 +8,9 @@
 
 Passionate web developer creating  functional web applications. 
 I enjoy turning complex problems into simple and intuitive solutions.
-Check out my portfolio website <a href="https://minimalist-0portfolio.netlify.app/">Click here</a>
+Check out my portfolio website 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://minimalist-0portfolio.netlify.app/)
+
 
 ## 💻 Tech Stack
 
