@@ -22,6 +22,21 @@ Check out my portfolio website
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 <!--![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)-->
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+
+Explanation:
+
+Java is the label text.
+
+007396 is the standard Java blue color.
+
+logo=java uses the Java logo from Shields.io's logo collection.
+
+logoColor=white makes the logo white for better contrast.
+
+
+You can paste that in your README.md file on GitHub to show a nice Java badge. Want similar ones for other languages or tools?
+
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
