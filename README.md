@@ -45,10 +45,10 @@ Check out my portfolio website<br>
 - 💡 [Project 3](https://minimalist-0portfolio.netlify.app/) - portfolio
 
 ## 📫 Connect With Me
-
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://minimalist-0portfolio.netlify.app/)<br>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeff-h-m-dev_)<br>
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/pooltroon)<br>
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://minimalist-0portfolio.netlify.app/)<br>
+
 
 ## 📝 Latest Blog Posts
 
