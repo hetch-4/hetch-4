@@ -1,4 +1,4 @@
-# 👋 Hello, [+ _ +] here
+# 👋 Hello, I'm Jeph
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Web+Developer;Always+Learning+New+Technologies;Passionate+About+Clean+Code;Solving+complex+problems;Building+innovative+solutions" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 Passionate web developer creating  functional web applications. 
 I enjoy turning complex problems into simple and intuitive solutions.
-Check out my portfolio website 
+Check out my portfolio website<br> 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://minimalist-0portfolio.netlify.app/)
 
 
@@ -46,9 +46,9 @@ Check out my portfolio website
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hetch_)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/pooltroon)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://minimalist-0portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeff-h-m-dev_)<br>
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/pooltroon)<br>
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://minimalist-0portfolio.netlify.app/)<br>
 
 ## 📝 Latest Blog Posts
 
