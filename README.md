@@ -1,18 +1,11 @@
-# 👋 Hello, I'm Jeph
+# Hello, I'm Jeph
 
+## About Me
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Web+Developer;Always+Learning+New+Technologies;Passionate+About+Clean+Code;Solving+complex+problems;Building+innovative+solutions" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
-
-Passionate web developer creating  functional web applications. 
-I enjoy turning complex problems into simple and intuitive solutions.
-Check out my portfolio website<br> 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://minimalist-0portfolio.netlify.app/)
-
-
-## 💻 Tech Stack
+## Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -29,7 +22,7 @@ Check out my portfolio website<br>
 
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hetch-4&theme=dark" />
 </a>
@@ -38,11 +31,6 @@ Check out my portfolio website<br>
 </a>
   
 
-## 🌟 Featured Projects
-
-- 🔥 [Project 1](https://real-estate-landing-page-jhd0.netlify.app/) - Real-Estate
-- 🚀 [Project 2](https://github.com/hetch-4/sort-files) - file sorter
-- 💡 [Project 3](https://minimalist-0portfolio.netlify.app/) - portfolio
 
 ## 📫 Connect With Me
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://minimalist-0portfolio.netlify.app/)<br>
@@ -50,13 +38,7 @@ Check out my portfolio website<br>
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/pooltroon)<br>
 
 
-## 📝 Latest Blog Posts
 
-- [Blog Post 1](https://yourblog.com/post1)
-- [Blog Post 2](https://yourblog.com/post2)
-- [Blog Post 3](https://yourblog.com/post3)
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hetch-4&color=blueviolet" alt="Profile Views" />
